@@ -61,4 +61,4 @@ In order to achieve high reliability in planning, we implemented the **ReAct** a
 ```bash
     streamlit run app.py
  ```
-4. [Demonstration video](https://drive.google.com/file/d/1yhb5PtJmwe2pVugNEq8AH3rzT6d8JT1l/view?usp=drive_link)
+## [Demonstration video](https://drive.google.com/file/d/1yhb5PtJmwe2pVugNEq8AH3rzT6d8JT1l/view?usp=drive_link)
