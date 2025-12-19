@@ -10,7 +10,7 @@ The system understands natural language inputs (destination, dates, budget, pref
 * AZEMAR Solene
 * BELET Marine
 * BENABDELJALIL Yanis
-
+### [Repo Git](https://github.com/KassimAmadou/Planificateur-de-Voyage-Autonome.git)
 ## Technical architecture and reasoning strategy
 
 ### Choice of reasoning technique: ReAct (Reason + Act)
